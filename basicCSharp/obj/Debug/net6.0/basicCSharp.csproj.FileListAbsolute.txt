@@ -1,0 +1,15 @@
+C:\Users\jorda\vs-workspace\SomeCSharp\basicCSharp\bin\Debug\net6.0\basicCSharp.exe
+C:\Users\jorda\vs-workspace\SomeCSharp\basicCSharp\bin\Debug\net6.0\basicCSharp.deps.json
+C:\Users\jorda\vs-workspace\SomeCSharp\basicCSharp\bin\Debug\net6.0\basicCSharp.runtimeconfig.json
+C:\Users\jorda\vs-workspace\SomeCSharp\basicCSharp\bin\Debug\net6.0\basicCSharp.dll
+C:\Users\jorda\vs-workspace\SomeCSharp\basicCSharp\bin\Debug\net6.0\basicCSharp.pdb
+C:\Users\jorda\vs-workspace\SomeCSharp\basicCSharp\obj\Debug\net6.0\basicCSharp.csproj.AssemblyReference.cache
+C:\Users\jorda\vs-workspace\SomeCSharp\basicCSharp\obj\Debug\net6.0\basicCSharp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jorda\vs-workspace\SomeCSharp\basicCSharp\obj\Debug\net6.0\basicCSharp.AssemblyInfoInputs.cache
+C:\Users\jorda\vs-workspace\SomeCSharp\basicCSharp\obj\Debug\net6.0\basicCSharp.AssemblyInfo.cs
+C:\Users\jorda\vs-workspace\SomeCSharp\basicCSharp\obj\Debug\net6.0\basicCSharp.csproj.CoreCompileInputs.cache
+C:\Users\jorda\vs-workspace\SomeCSharp\basicCSharp\obj\Debug\net6.0\basicCSharp.dll
+C:\Users\jorda\vs-workspace\SomeCSharp\basicCSharp\obj\Debug\net6.0\refint\basicCSharp.dll
+C:\Users\jorda\vs-workspace\SomeCSharp\basicCSharp\obj\Debug\net6.0\basicCSharp.pdb
+C:\Users\jorda\vs-workspace\SomeCSharp\basicCSharp\obj\Debug\net6.0\basicCSharp.genruntimeconfig.cache
+C:\Users\jorda\vs-workspace\SomeCSharp\basicCSharp\obj\Debug\net6.0\ref\basicCSharp.dll
