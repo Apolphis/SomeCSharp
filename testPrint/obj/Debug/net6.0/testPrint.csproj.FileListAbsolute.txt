@@ -1,0 +1,15 @@
+C:\Users\jorda\vs-workspace\SomeCSharp\testPrint\bin\Debug\net6.0\testPrint.exe
+C:\Users\jorda\vs-workspace\SomeCSharp\testPrint\bin\Debug\net6.0\testPrint.deps.json
+C:\Users\jorda\vs-workspace\SomeCSharp\testPrint\bin\Debug\net6.0\testPrint.runtimeconfig.json
+C:\Users\jorda\vs-workspace\SomeCSharp\testPrint\bin\Debug\net6.0\testPrint.dll
+C:\Users\jorda\vs-workspace\SomeCSharp\testPrint\bin\Debug\net6.0\testPrint.pdb
+C:\Users\jorda\vs-workspace\SomeCSharp\testPrint\obj\Debug\net6.0\testPrint.csproj.AssemblyReference.cache
+C:\Users\jorda\vs-workspace\SomeCSharp\testPrint\obj\Debug\net6.0\testPrint.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jorda\vs-workspace\SomeCSharp\testPrint\obj\Debug\net6.0\testPrint.AssemblyInfoInputs.cache
+C:\Users\jorda\vs-workspace\SomeCSharp\testPrint\obj\Debug\net6.0\testPrint.AssemblyInfo.cs
+C:\Users\jorda\vs-workspace\SomeCSharp\testPrint\obj\Debug\net6.0\testPrint.csproj.CoreCompileInputs.cache
+C:\Users\jorda\vs-workspace\SomeCSharp\testPrint\obj\Debug\net6.0\testPrint.dll
+C:\Users\jorda\vs-workspace\SomeCSharp\testPrint\obj\Debug\net6.0\refint\testPrint.dll
+C:\Users\jorda\vs-workspace\SomeCSharp\testPrint\obj\Debug\net6.0\testPrint.pdb
+C:\Users\jorda\vs-workspace\SomeCSharp\testPrint\obj\Debug\net6.0\testPrint.genruntimeconfig.cache
+C:\Users\jorda\vs-workspace\SomeCSharp\testPrint\obj\Debug\net6.0\ref\testPrint.dll
