@@ -18,8 +18,8 @@
         <viewModel:MainViewModel/>
 
     </Window.DataContext>
-    
-    <Border Background="#364580"
+
+    <Border Background="#0f0f0f"
             CornerRadius="30">
         <Grid>
 
